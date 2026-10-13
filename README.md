@@ -76,11 +76,8 @@ The project demonstrates practical skills in:
 - JavaScript-based geospatial applications
 
 ## Project preview
+<img width="1918" height="937" alt="image" src="https://github.com/user-attachments/assets/c271135b-c58e-4e25-80d9-f4478ba7fce5" />
 
-- Kenya county choropleth
-- Indicator selection panel
-- County comparison
-- Temporal controls
 
 ## Interactive Application
 
@@ -103,8 +100,8 @@ The project demonstrates practical skills in:
 
 Geospatial & Data Analyst | GIS | Remote Sensing | Spatial Analytics
 
-MSc Geographic Information Systems  
-BSc Geospatial Engineering — First Class Honours
+MSc Geographic Information Systems (UoN, 2026)
+BSc Geospatial Engineering (UoN ,2023)
 
 ## License
 
