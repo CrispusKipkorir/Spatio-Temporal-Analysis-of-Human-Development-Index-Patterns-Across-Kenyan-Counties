@@ -63,7 +63,7 @@ The project follows a geospatial visualization workflow:
 
 The application is entirely client-side and requires **no backend server**.
 
-## Key Analytical Value
+## Key analytical value
 
 The project demonstrates practical skills in:
 
@@ -75,9 +75,7 @@ The project demonstrates practical skills in:
 - Data integration and presentation
 - JavaScript-based geospatial applications
 
-## Project Preview
-
-Add 2–3 screenshots or GIFs here showing:
+## Project preview
 
 - Kenya county choropleth
 - Indicator selection panel
